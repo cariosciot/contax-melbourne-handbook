@@ -4,7 +4,7 @@ As a small office, we tend to all wear quite a lot of hats, but it is worth brea
 Below you'll find a list of the major groups and teams within the CoE.
 
 ## Management Team
-[*Tim Carioscio*](http://www.contax.com/portal/petra/Contact_Single.asp?EMPID=246) is the manager of the Melbourne CoE. He’s principally responsible for setting the overall direction of the CoE.
+[Tim Carioscio](http://www.contax.com/portal/petra/Contact_Single.asp?EMPID=246) is the manager of the Melbourne CoE. He’s principally responsible for setting the overall direction of the CoE.
 
 ## ABAP Team
 * [Mark Rena](http://www.contax.com/portal/petra/Contact_Single.asp?EMPID=523) - Senior Consultant
