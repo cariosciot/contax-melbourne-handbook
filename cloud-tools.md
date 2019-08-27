@@ -31,4 +31,4 @@ Slack is a proper chat app, so we in the Melbourne office prefer to use it over 
 ## Trello (Workload Management/Kanban)
 https://trello.com/contaxaustralia
 
-The Melbourne CoE uses trello to track and assign tasks and projects to resources. This is only used in Melbourne and administered by *Tim*. If you have any issues in Trello, reach out to him directly.
+The Melbourne CoE uses trello to track and assign tasks and projects to resources. This is only used in Melbourne and administered by **Tim**. If you have any issues in Trello, reach out to him directly.

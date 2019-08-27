@@ -5,6 +5,6 @@ Now that our little team is growing into a medium sized CoE, it's worthwhile to 
 
 ## Sections
 * [Who Does What?](orgchart.md)
-* [Vocabulary](vocabulary.md)
 * [Cloud Tools](cloud-tools.md)
+* [Vocabulary](vocabulary.md)
 * [FAQ](faq.md)
