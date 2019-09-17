@@ -6,7 +6,8 @@ Now that our little team is growing into a medium sized CoE, it's worthwhile to 
 ## Sections
 * [What We Believe](what-we-believe.md)
 * [Who Does What?](orgchart.md)
-* [Cloud Tools](cloud-tools.md)
+* [Our Partnerships](our-partnerships.md)
+* [Cloud Tools We Use](cloud-tools.md)
 * [Benefits & Perks](benefits-and-perks.md)
 * [Vocabulary](vocabulary.md)
 * [FAQ](faq.md)
