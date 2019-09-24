@@ -9,5 +9,6 @@ Now that our little team is growing into a medium sized CoE, it's worthwhile to 
 * [Our Partnerships](our-partnerships.md)
 * [Cloud Tools We Use](cloud-tools.md)
 * [Benefits & Perks](benefits-and-perks.md)
+* [Office Dress Code](dress-code.md)
 * [Vocabulary](vocabulary.md)
 * [FAQ](faq.md)
