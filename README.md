@@ -10,5 +10,6 @@ Now that our little team is growing into a medium sized CoE, it's worthwhile to 
 * [Cloud Tools We Use](cloud-tools.md)
 * [Benefits & Perks](benefits-and-perks.md)
 * [Office Dress Code](dress-code.md)
+* [Paid Time Off Checklist](pto-checklist.md)
 * [Vocabulary](vocabulary.md)
 * [FAQ](faq.md)
