@@ -10,7 +10,7 @@ CONTAX is a Gold SAP Partner, authorized by SAP to sell, implement and support S
 ## AWS
 Amazon Web Services (AWS) is the dominant force in cloud computing. They continue to innovate and push what is possible in cloud-based offerings.
 
-CONTAX is a **Select** tier consulting partner, as well as a certified AWS solution provider.
+CONTAX is an **Advanced** tier consulting partner, as well as a certified AWS solution provider.
 
 ## UPS
 UPS is a global leader in shipping and logistics.

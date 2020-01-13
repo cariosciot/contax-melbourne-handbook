@@ -28,7 +28,12 @@ https://contax-inc.slack.com
 
 Slack is a proper chat app, so we in the Melbourne office prefer to use it over dialpad (which is encumbered by the SMS protocol). While it's the preferred chat app in Melbourne as well as some of the other, more forward-thinking CoEs, not all CONTAX resources are using Slack and you may have to fall back to Dialpad to reach them.
 
+## Basecamp (Project Management)
+https://3.basecamp.com/4400931/
+
+Basecamp is a lightweight project management application. We use it to keep all of our tasks and communications in one place while working on team projects. The structure is set up such that we can invite clients and coworkers alike to join in and work on projects with us. Feel free to do so. For the time being, Melbourne is the only CoE who uses Basecamp, though that is subject to change. Basecamp is administered by **Tim**. If you have any issues with Basecamp let him know and he'll lend a hand.
+
 ## Trello (Workload Management/Kanban)
 https://trello.com/contaxaustralia
 
-The Melbourne CoE uses trello to track and assign tasks and projects to resources. This is only used in Melbourne and administered by **Tim**. If you have any issues in Trello, reach out to him directly.
+The Melbourne CoE uses Trello to track and assign tasks and projects to resources. This is only used in Melbourne and administered by **Tim**. If you have any issues in Trello, reach out to him directly.
