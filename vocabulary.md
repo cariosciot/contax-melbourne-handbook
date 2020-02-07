@@ -9,7 +9,6 @@ CoE is one of those dreaded TLA's (Three Letter Acronyms). In our case, it stand
 * Midwest CoE
 * PEI CoE
 * Melbourne CoE
-* Amsterdam CoE
 * SoCal CoE
-* Southwest CoE
 * Shipping Technology CoE
+* Integration Technology CoE
