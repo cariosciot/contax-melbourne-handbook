@@ -15,7 +15,7 @@ On Fridays, we observe what is commonly referred to as **casual Friday** wherein
 * Jeans
 * Hoodies
 
-## Summer Dress Code
-Starting in the summer of 2019/2020, we are loosening our dress code even further. From 1 December 2019 until 29 February 2020, casual Friday will be extended earlier in the week. In order to fully enjoy our summer we will be observing **casual Thursday** as well as **casual Friday**.
+## Summer Dress Code (Extended)
+Starting in the summer of 2019/2020, we are loosening our dress code even further. From 1 December 2019 and continuing until further notice, casual Friday will be extended earlier in the week. In order to emphasise our freewheeling and progressive workplace, we will be observing **casual Thursday** as well as **casual Friday**.
 
 In addition to casual days, we also encourage the wearing of non-ironic Hawaiian shirts on any day of the week out of nostalgic respect for Tom Selleck's portrayal of the titular character in [Magnum, P.I.](https://en.wikipedia.org/wiki/Magnum,_P.I.).
