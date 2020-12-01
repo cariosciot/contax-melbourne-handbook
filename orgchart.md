@@ -15,5 +15,5 @@ Below you'll find a list of the major groups and teams within the CoE.
 ## Basis Team
 * [Aaron Arokiaraj](http://www.contax.com/portal/petra/Contact_Single.asp?EMPID=538) - Senior Consultant
 * [Duta Nguyen](http://www.contax.com/portal/petra/Contact_Single.asp?EMPID=539) - Senior Consultant
-* [Stephen Bafas](http://www.contax.com/portal/petra/Contact_Single.asp?EMPID=540) - Consultant
+* [Stephen Bafas](http://www.contax.com/portal/petra/Contact_Single.asp?EMPID=540) - Senior Consultant
 * [Ross Tsingos](http://www.contax.com/portal/petra/Contact_Single.asp?EMPID=638) - Consultant
