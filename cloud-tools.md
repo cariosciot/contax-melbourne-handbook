@@ -7,7 +7,7 @@ CONTAX Melbourne uses a number of cloud-based tools to manage and monitor our co
 We use the full suite of Microsoft Office 365 tools. To that end, our webmail provider is Outlook.
 
 ## CONTAX Portal (Timesheets, Expenses)
-<http://contax.com/Portal/>
+<https://portal.contax.cloud>
 
 The CONTAX portal is where we go to fill out our timesheets and submit expense reports among other miscellaneous tasks. As consultants, our product is our time, so this is the most important tool we use.
 
