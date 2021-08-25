@@ -27,8 +27,3 @@ Our customers use Freshservice to open tickets and alert us of any issues or ser
 We don't have phones on our desks, and for good reason. We're consultants who need to be able to be reached when we're on client sites, working remotely or in the office. Dialpad is an enterprise-grade VOIP app that enables us to do just that.
 
 Dialpad is used company-wide at CONTAX, so it is your best option to reach resources in other offices.
-
-## Trello (Workload Management/Kanban)
-<https://trello.com/contaxaustralia>
-
-The Melbourne CoE uses Trello to track and assign tasks and projects to resources. This is only used in Melbourne and administered by **Tim**. If you have any issues in Trello, reach out to him directly.
