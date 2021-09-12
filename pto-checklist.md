@@ -11,4 +11,4 @@ In order to ensure that your time off is in fact **off**, CONTAX suggests that y
 * Send a reminder email to any clients with whom you have frequent contact that you'll be away.
 * Complete your timesheets for all the days that you'll be away.
 * Set Dialpad to 'Do Not Disturb'.
-* Disable push notifications on your phone for email, slack, and any other apps that you'd rather not be bothered by while you're away.
+* Disable push notifications on your phone for email, basecamp, and any other apps that you'd rather not be bothered by while you're away.
