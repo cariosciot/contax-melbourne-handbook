@@ -16,4 +16,3 @@ Below you'll find a list of the major groups and teams within the CoE.
 
 ## Development/Beyond Infrastructure Team
 * [Karthik Pradeep Kumar](https://portal.contax.cloud/Employee-Directory?Method=DisplaySingle&EMPID=621) - Consultant
-* [Katherine Stevenson](https://portal.contax.cloud/Employee-Directory?Method=DisplaySingle&EMPID=657) - Consultant

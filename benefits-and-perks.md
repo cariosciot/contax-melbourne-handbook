@@ -12,6 +12,6 @@ We don't have a limit on sick days. If you're under the weather, take the time y
 
 ## Remote Work
 
-If you have a reason you need to work remotely, you're encouraged to do so. While we genuinely feel that working at the office as a part of a team is often more conducive to performing at a high level, we trust that you'll remain productive and will be reachable via the normal channels (email, dialpad, slack, etc...) while remote.
+If you have a reason you need to work remotely, you're encouraged to do so. While we genuinely feel that working at the office as a part of a team is often more conducive to performing at a high level, we trust that you'll remain productive and will be reachable via the normal channels (email, teams, basecamp, etc...) while remote.
 
-When you're planning on working remotely, be sure to notify your manager 24hrs in advance and update the shared calendar so that the people who may need to talk with you know where and when they can find you.
+When you're planning on working remotely, be sure to notify your manager at least 24hrs in advance and update the shared calendar so that the people who may need to talk with you know where and when they can find you.

@@ -21,9 +21,9 @@ Basecamp is a lightweight project management application. We use it to keep all 
 
 Our customers use Freshservice to open tickets and alert us of any issues or service requests that they may have.
 
-## Dialpad (Telephone)
-<https://dialpad.com>
+## Teams (Telephone)
+<http://teams.microsoft.com>
 
-We don't have phones on our desks, and for good reason. We're consultants who need to be able to be reached when we're on client sites, working remotely or in the office. Dialpad is an enterprise-grade VOIP app that enables us to do just that.
+We don't have phones on our desks, and for good reason. We're consultants who need to be able to be reached when we're on client sites, working remotely or in the office. Teams is an enterprise-grade VOIP app that enables us to do just that.
 
-Dialpad is used company-wide at CONTAX, so it is your best option to reach resources in other offices.
+Teams is used company-wide at CONTAX, so it is your best option to reach resources in other offices.
