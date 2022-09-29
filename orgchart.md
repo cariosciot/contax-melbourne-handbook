@@ -11,8 +11,6 @@ Below you'll find a list of the major groups and teams within the CoE.
 * [Duta Nguyen](https://portal.contax.cloud/Employee-Directory?Method=DisplaySingle&EMPID=539) - Senior Consultant
 * [Stephen Bafas](https://portal.contax.cloud/Employee-Directory?Method=DisplaySingle&EMPID=540) - Senior Consultant
 * [Pratheeb Sivagnanam](https://portal.contax.cloud/Employee-Directory?Method=DisplaySingle&EMPID=587) - Senior Consultant
-* [Ross Tsingos](https://portal.contax.cloud/Employee-Directory?Method=DisplaySingle&EMPID=638) - Consultant
-* [Jennifer Tobagus](https://portal.contax.cloud/Employee-Directory?Method=DisplaySingle&EMPID=665) - Consultant
-
-## Development/Beyond Infrastructure Team
-* [Karthik Pradeep Kumar](https://portal.contax.cloud/Employee-Directory?Method=DisplaySingle&EMPID=621) - Consultant
+* [Ross Tsingos](https://portal.contax.cloud/Employee-Directory?Method=DisplaySingle&EMPID=638) - Senior Consultant
+* [Jennifer Tobagus](https://portal.contax.cloud/Employee-Directory?Method=DisplaySingle&EMPID=665) - Senior Consultant
+* [Tarik Jeena](https://portal.contax.cloud/Employee-Directory?Method=DisplaySingle&EMPID=767) - Consultant
